@@ -1,4 +1,4 @@
-# Analisis Respons Campaign Pelanggan Supermarket
+# Analisis Respon Campaign Pelanggan Supermarket
 
 Notebook ini menganalisis perilaku respons pelanggan supermarket berdasarkan berbagai atribut, seperti pendapatan, kunjungan web, status perkawinan, pendidikan, dan lainnya. Tujuan dari analisis ini adalah untuk mengidentifikasi pola perilaku pelanggan dan memberikan rekomendasi yang dapat diterapkan untuk meningkatkan efektivitas kampanye pemasaran di masa depan.
 
